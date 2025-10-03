@@ -1,4 +1,7 @@
-# 自己紹介
+# profile
+## 自己紹介
+新垣 匠海
+2005/08/01 (20歳)
 
 <!--
 **itc-s24001/itc-s24001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
