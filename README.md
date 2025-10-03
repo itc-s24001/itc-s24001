@@ -1,4 +1,4 @@
-## Hi there 👋
+# 自己紹介
 
 <!--
 **itc-s24001/itc-s24001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
