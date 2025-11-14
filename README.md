@@ -25,6 +25,12 @@
 
 ---
 
+## PIN止め作品の紹介  
+- movie-api
+  2年生のPBLの授業で先輩とグループになってチーム開発をする授業で作ったアプリ
+- webkadai
+  1年生のときにAPIとNextを使ったつくったアプリ
+
 ## 📫 連絡先・リンク
 
 - **GitHub**: [https://github.com/itc-s24001]  
