@@ -14,7 +14,7 @@
 | 分野 | 内容 |
 |------|---------------|
 | 🧑‍💻 プログラミング | Python、Java |
-| 🗃️ データベース | MySQL |
+| 🗃️ データベース | MariaDB |
 | 🧩 フレームワーク | React / Next.js |
 | 🛠️ ツール系 | Git / GitHub、VSCode、Figma |
 
