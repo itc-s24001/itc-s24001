@@ -5,7 +5,8 @@
 💡 **興味・目標**  
 - 自分でアプリを作れるようになる  
 - プログラミングを日々行う  
-- GitHub で日常の学びを記録する  
+- GitHub で日常の学びを記録する
+
 📝　**資格・試験**
 - SEA/J Certified Security Basic Master
 - CompTIA IT Fundamentals(ITF+)
